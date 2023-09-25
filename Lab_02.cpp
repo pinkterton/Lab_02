@@ -14,7 +14,7 @@ int main()
 	double z1;
 	double z2;
 
-	cout << "Angle Alpha: "; cin >> x;
+	cout << "Angle Alpha: "; cin >> x; // Angle Aplha input 
 
 	z1 = (cos(x) + sin(x)) / (cos(x) - sin(x));
 	z2 = (tan(x) * tan(x)) + ((1 / cos(x)) * (1 / cos(x))); // sec = 1/cos(x)

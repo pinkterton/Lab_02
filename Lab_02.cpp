@@ -12,7 +12,7 @@ int main()
 {
 	double x;
 	double z1;
-	double z2;
+	double z2; // змінні
 
 	cout << "Angle Alpha: "; cin >> x; // Angle Aplha input 
 
